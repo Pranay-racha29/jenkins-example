@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-lambda
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pranay
+Implementation-Vendor-Id: com.springboot.serverless
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-lambda-serverless
+Created-By: Maven Integration for Eclipse
+

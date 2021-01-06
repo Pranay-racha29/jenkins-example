@@ -1,0 +1,5 @@
+#
+#Wed Jan 06 21:01:29 IST 2021
+com.springboot.serverless.app.manager.impl.EmployeeRepository=org.springframework.stereotype.Component
+com.springboot.serverless.app.controller.EmployeeController=org.springframework.stereotype.Component
+com.springboot.serverless.app.SpringBootServerlessApp=org.springframework.stereotype.Component
